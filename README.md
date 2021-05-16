@@ -1,2 +1,2 @@
 # telebot
-Telegram chatbot for hosting on heroku
+Telegram chatbot almost ready to be hosted on heroku
